@@ -13,7 +13,7 @@ A comprehensive C++ project that applies **graph theory algorithms** to model an
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Complexity Analysis](#complexity-analysis)
-- [License](#license)
+
 
 ---
 
@@ -72,7 +72,7 @@ Graph-Theory-and-Route-Optimization/
 ├── finalAssn.cpp         # Final Assignment: MST, centrality, disaster recovery, traffic routing, critical infra
 ├── MID_EVAL_PPT.pdf      # Mid-evaluation presentation
 ├── README.md             # This file
-├── LICENSE               # MIT License
+
 └── .gitignore            # Git ignore rules
 ```
 
@@ -180,6 +180,4 @@ const int MAX_BRIDGES = 8;     // Max inter-region bridge roads
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
